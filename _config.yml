@@ -1,0 +1,29 @@
+name: franshuijsmans
+favicon: null
+layout_spectrum: 0.1692481751088053
+typography_spectrum: 0.5842423147987574
+title: Frans Huijsmans - live communicatie
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6548480538185686
+  lightness: 0.1673547886312008
+  saturation: 0.04378095641732216
+  rhythmicContrast: 0.9923011844512075
+purpose: []
